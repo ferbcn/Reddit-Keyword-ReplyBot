@@ -17,4 +17,4 @@ Python3 script that searches subreddits for keywords and replies when certain co
 
 # Usage
 
-Run: Reply_Bot.py
+Run: Keyword_ReplyBot.py
